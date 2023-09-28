@@ -13,9 +13,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: monitor.cyscomvit.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cyscomvit.com/assets/images/logo.png
   name: "Cyscom's Upptime"
   introTitle: "Monitoring of Cyscom's sites using Upptime"
+  theme: light
   navbar:
     - title: Status
       href: /
