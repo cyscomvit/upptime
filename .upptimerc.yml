@@ -5,18 +5,30 @@ repo: upptime # The name of this repository
 sites:
   - name: Cyscom Website
     url: https://cyscomvit.com/
+  - name: Cyscom Blog
+    url: https://blog.cyscomvit.com/
   - name: Cyscom Leaderboard
     url: https://opensrc.cyscomvit.com/leaderboard
+  - name: Cyscom Open Source
+    url: https://opensrc.cyscomvit.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: monitor.cyscomvit.com
-  # baseUrl: /your-repo-name
+  # baseUrl: /upptime
   logoUrl: https://cyscomvit.com/assets/images/logo.png
   name: "Cyscom's Upptime"
   introTitle: "Monitoring of Cyscom's sites using Upptime"
-  theme: dark
+  theme: light
+  workflowSchedule:
+    graphs: "0 0 * * *"
+    responseTime: "0 23 * * *"
+    staticSite: "0 1 * * *"
+    summary: "0 0 * * *"
+    updateTemplate: "0 0 * * *"
+    updates: "0 3 * * *"
+    uptime: "*/5 * * * *"
   navbar:
     - title: Status
       href: /
