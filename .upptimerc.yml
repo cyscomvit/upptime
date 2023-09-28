@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://cyscomvit.com/assets/images/logo.png
   name: "Cyscom's Upptime"
   introTitle: "Monitoring of Cyscom's sites using Upptime"
-  theme: light
+  theme: night
   navbar:
     - title: Status
       href: /
