@@ -4,18 +4,20 @@
     "url": "https://cyscomvit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cyscomvit.com.ico",
     "slug": "cyscom-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 159,
-    "timeWeek": 159,
-    "timeMonth": 159,
-    "timeYear": 159,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 169,
+    "timeDay": 169,
+    "timeWeek": 169,
+    "timeMonth": 169,
+    "timeYear": 169,
+    "dailyMinutesDown": {
+      "2023-09-29": 0
+    }
   },
   {
     "name": "Cyscom Blog",
