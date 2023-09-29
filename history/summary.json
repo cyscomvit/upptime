@@ -4,19 +4,19 @@
     "url": "https://cyscomvit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cyscomvit.com.ico",
     "slug": "cyscom-website",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 169,
-    "timeDay": 169,
-    "timeWeek": 169,
-    "timeMonth": 169,
-    "timeYear": 169,
+    "status": "up",
+    "uptime": "98.65%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.65%",
+    "time": 160,
+    "timeDay": 160,
+    "timeWeek": 160,
+    "timeMonth": 160,
+    "timeYear": 160,
     "dailyMinutesDown": {
-      "2023-09-29": 0
+      "2023-09-29": 19
     }
   },
   {
