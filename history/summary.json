@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cyscomvit.com.ico",
     "slug": "cyscom-website",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 138,
     "timeDay": 103,
     "timeWeek": 132,
@@ -24,9 +24,9 @@
     "url": "https://blog.cyscomvit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.cyscomvit.com.ico",
     "slug": "cyscom-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 266,
     "timeMonth": 278,
     "timeYear": 278,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-16": 0
+    }
   },
   {
     "name": "Cyscom Leaderboard",
