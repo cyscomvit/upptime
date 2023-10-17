@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 138,
-    "timeDay": 103,
-    "timeWeek": 132,
-    "timeMonth": 138,
-    "timeYear": 138,
+    "time": 135,
+    "timeDay": 67,
+    "timeWeek": 117,
+    "timeMonth": 135,
+    "timeYear": 135,
     "dailyMinutesDown": {
       "2023-09-29": 19
     }
@@ -24,17 +24,17 @@
     "url": "https://blog.cyscomvit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.cyscomvit.com.ico",
     "slug": "cyscom-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
     "uptimeDay": "98.06%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 278,
-    "timeDay": 814,
-    "timeWeek": 266,
-    "timeMonth": 278,
-    "timeYear": 278,
+    "time": 306,
+    "timeDay": 573,
+    "timeWeek": 346,
+    "timeMonth": 306,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2023-10-16": 28
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2606,
-    "timeDay": 3123,
-    "timeWeek": 2613,
-    "timeMonth": 2606,
-    "timeYear": 2606,
+    "time": 2628,
+    "timeDay": 3175,
+    "timeWeek": 2704,
+    "timeMonth": 2628,
+    "timeYear": 2628,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 449,
-    "timeDay": 273,
-    "timeWeek": 502,
-    "timeMonth": 449,
-    "timeYear": 449,
+    "time": 483,
+    "timeDay": 1132,
+    "timeWeek": 533,
+    "timeMonth": 483,
+    "timeYear": 483,
     "dailyMinutesDown": {}
   }
 ]
