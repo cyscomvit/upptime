@@ -9,6 +9,8 @@ sites:
     url: https://blog.cyscomvit.com/
   - name: Cyscom Leaderboard
     url: https://opensrc.cyscomvit.com/leaderboard
+  - name: Cyscom Writeups
+    url: https://writeups.cyscomvit.com/
   - name: Cyscom Open Source
     url: https://opensrc.cyscomvit.com/
 
