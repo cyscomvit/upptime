@@ -9,6 +9,10 @@ sites:
     url: https://blog.cyscomvit.com/
   - name: Cyscom Leaderboard
     url: https://opensrc.cyscomvit.com/leaderboard
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Cyscom Writeups
     url: https://writeups.cyscomvit.com/
   - name: Cyscom Open Source
