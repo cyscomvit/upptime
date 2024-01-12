@@ -1,7 +1,7 @@
 url: https://opensrc.cyscomvit.com/leaderboard
-status: up
-code: 200
-responseTime: 2008
-lastUpdated: 2024-01-11T23:11:52.572Z
+status: down
+code: 502
+responseTime: 316
+lastUpdated: 2024-01-12T03:47:21.307Z
 startTime: 2023-09-28T14:29:43.071Z
 generator: Upptime <https://github.com/upptime/upptime>
